@@ -20,6 +20,7 @@ FasTrack is mainly  divided in Three Parts:
 This system is also integrated with PLM and SAP for data updation for different Stages of tools/DIE's life cycle.
 Using different Summary reports (LOB based), ongoing Projects, Section wise work order being issued and their stage status and month wise 
 Planned Vs Actual records for hours and cost getting tracked.In addition it involves reports of work order's which are lagging at which stage, cost & hours related reports generation for all projects as well as section wise Live Load Information for each Sections WOs.
+
 Using line graph and bar charts higher management can be able to monitor development in much effective way.
  
 ***
