@@ -1,6 +1,9 @@
+
 ## FasTrack - PE Tool Tracking System
 
-> This Project is buit to have an integrated system across all types of tools for all LOB's with a single login access and views based on the user roles.
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Die_lifeCycle.png?raw=true)
+
+> This Project is built to have an integrated system across all types of tools for all LOB's with a single login access and views based on the user roles.
 ***
 ### <u>Objective</u>
  * Monitoring work order movement over its entire life cycle till production handover,
@@ -25,12 +28,11 @@ Using line chart and bar chart user is able to monitor development in much effec
  
 ***
 ## FasTrack Life Cycle
-> Fastrack Life cycle consists of steps as:
+> FasTrack Life cycle consists of steps as:
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/FTS_LifeCycle.JPG?raw=true)
 1. Panel Upload
 2. Allocate Operation
 3. Upload Schedule
 4. Work Order Allocation
 5. SAP and PLM record capturing
 6. Tracking Dashboards
-
-
