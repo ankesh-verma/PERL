@@ -25,7 +25,7 @@ Using line chart and bar chart user is able to monitor development in much effec
  
 ***
 ## FasTrack Life Cycle
-> Fastrack Life cycle consist of steps as:
+> Fastrack Life cycle consists of steps as:
 1. Panel Upload
 2. Allocate Operation
 3. Upload Schedule
