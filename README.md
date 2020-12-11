@@ -1,2 +1,2 @@
-# PERL
-### This Repository contains projects developed using PERL language.
+# PERL Projects
+This Repository contains projects developed using PERL language.
