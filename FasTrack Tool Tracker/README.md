@@ -37,7 +37,8 @@ Using line chart and bar chart user is able to monitor development in much effec
 6. Tracking Dashboards
 ***
 1. <b>Panel Upload :</b>
-      ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/uploadPanel.PNG?raw=true)
+     
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/uploadPanel.PNG?raw=true)
 *   In this Step Planner has to upload the Panel against Project and Its Component Number, This consist of Plan dates of various Stages (Simulation, Material Planning and Offload type), Post upload it will be searched through Search dashboard.
  2. <b>Allocate Operation :</b><br>
     ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Operation.PNG?raw=true)
