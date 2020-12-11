@@ -1,5 +1,4 @@
-
-# <u>FasTrack - PE Tool Tracking System</u>
+## FasTrack - PE Tool Tracking System
 
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Die_lifeCycle.png?raw=true)
 
@@ -40,20 +39,20 @@ Using line chart and bar chart user is able to monitor development in much effec
 1. <b>Panel Upload :</b>
       ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/uploadPanel.PNG?raw=true)
 *   In this Step Planner has to upload the Panel against Project and Its Component Number, This consist of Plan dates of various Stages (Simulation, Material Planning and Offload type), Post upload it will be searched through Search dashboard.
- 2. <b>Allocate Operation :</b>
+ 2. <b>Allocate Operation :</b><br>
     ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Operation.PNG?raw=true)
-   * Design Group leader for Uploaded panel have to define operation steps and allocate designer.
+   * Design Group leader for Uploaded panel have to define operation steps and allocate designer.<br>
 3. <b>Upload Schedule :</b>
-      * In this step planner will add schedule plan dates for every stages ,i.e. Design, Preparation, Assembly, Tryout, HLTO; and Planned cost/hour against defined operation. 
+      * In this step planner will add schedule plan dates for every stages ,i.e. Design, Preparation, Assembly, Tryout, HLTO; and Planned cost/hour against defined operation.<br> 
 4. <b>Work Order Allocation :</b>
-      * In this step Planner has to allocate actual work order for every operation defined by   group leader in step 2.
+      * In this step Planner has to allocate actual work order for every operation defined by   group leader in step 2.<br>
 5. <b>SAP and PLM record capturing :</b>
-      * To get actual completion date of stages as well as actual cost /hour taken per stage PLM and SAP integration done using PERL scripts. Every time when dates, cost and hour's updated in SAP/PLM PERL script will capture it and update actual column in FasTrack.  
+      * To get actual completion date of stages as well as actual cost /hour taken per stage PLM and SAP integration done using PERL scripts. Every time when dates, cost and hour's updated in SAP/PLM PERL script will capture it and update actual column in FasTrack.  <br>
 6. <b>Tracking Dashboard :</b>
 
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/EQAP.PNG?raw=true)
  
    * To track progress in DIE making various line plot as well as bar plots has created for better visualization and easy understanding. Along with summary dashboard's has been made that shows Live load month-wise/section-wise, which ever user wants to track.
 
-* *For more details click here*
+* For more details click here
   
