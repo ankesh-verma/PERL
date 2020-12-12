@@ -28,7 +28,7 @@ Using <b>line chart and bar chart </b>user is able to monitor development in muc
 ***
 ## Life Cycle
 > Life cycle consists of steps as:
-![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/FTS_LifeCycle.JPG?raw=true)
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/LifeCycle.JPG)
 1. Panel Upload
 2. Allocate Operation
 3. Upload Schedule
