@@ -1,6 +1,6 @@
 # QUALITY MATURITY MONITORING SYSTEM
 
-![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Die_lifeCycle.png?raw=true)
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/Main_Standard.png?raw=true)
 
 > This Appliactio is buit to handle the Quality issues faced by user during TOUT stage and to assign that issue to concerned team using web interface.
 ***
