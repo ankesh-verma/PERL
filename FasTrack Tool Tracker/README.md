@@ -1,4 +1,4 @@
-## FasTrack - PE Tool Tracking System
+## Tool Tracking System
 
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/Die_lifeCycle.png?raw=true)
 
@@ -14,7 +14,7 @@
 FasTrack is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
 Before this project, data was being managed by all different stakeholders using MS Excel and there was great dependency on individual person to get any information for any TOOL / DIE.
 
-FasTrack is mainly <b>divided in Three Parts</b>:
+Application is mainly <b>divided in Three Parts</b>:
  1. Pre-Planning [Panel Level Data Management], 
  2. Design [WO Release Level] and 
  3. Design to HLTO [Schedule from Design to HLTO]. 
@@ -26,8 +26,8 @@ Planned Vs Actual records for hours and cost getting tracked.In addition it invo
 Using <b>line chart and bar chart </b>user is able to monitor development in much effective way.
  
 ***
-## FasTrack Life Cycle
-> FasTrack Life cycle consists of steps as:
+## Life Cycle
+> Life cycle consists of steps as:
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/FTS_LifeCycle.JPG?raw=true)
 1. Panel Upload
 2. Allocate Operation
