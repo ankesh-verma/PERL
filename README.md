@@ -3,7 +3,7 @@
 ---
 
 ### Project expalined are:
-1. FasTrack- PE Tracking System
-2. TRYOUT Quality Maturity Monitoring System.
+1. Tool Tracking System
+2. Quality Maturity Monitoring System.
 3. Stage Change Apllication
 ***
