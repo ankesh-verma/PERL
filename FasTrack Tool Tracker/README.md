@@ -11,7 +11,7 @@
  * Introduction of panel level phase and cascade it to WO level phase with interdependency of stages  to follow established process 
 ***
 ### Description
-FasTrack is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
+It is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
 Before this project, data was being managed by all different stakeholders using MS Excel and there was great dependency on individual person to get any information for any TOOL / DIE.
 
 Application is mainly <b>divided in Three Parts</b>:
