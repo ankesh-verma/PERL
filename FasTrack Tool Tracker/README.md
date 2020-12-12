@@ -14,7 +14,7 @@
 FasTrack is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
 Before this project, data was being managed by all different stakeholders using MS Excel and there was great dependency on individual person to get any information for any TOOL / DIE.
 
-FasTrack is mainly  divided in Three Parts:
+FasTrack is mainly <b>divided in Three Parts</b>:
  1. Pre-Planning [Panel Level Data Management], 
  2. Design [WO Release Level] and 
  3. Design to HLTO [Schedule from Design to HLTO]. 
@@ -23,7 +23,7 @@ This system is also <b>integrated with PLM and SAP</b> for data updation for dif
 Using different Summary reports (LOB based), ongoing Projects, Section wise work order being issued and their stage status and month wise 
 Planned Vs Actual records for hours and cost getting tracked.In addition it involves reports of work order's which are lagging at which stage, cost & hours related reports generation for all projects as well as section wise Live Load Information for each Sections WOs.
 
-Using line chart and bar chart user is able to monitor development in much effective way.
+Using <b>line chart and bar chart </b>user is able to monitor development in much effective way.
  
 ***
 ## FasTrack Life Cycle
