@@ -10,7 +10,7 @@
  * SAP integration for Plan vs Actual Cost and Hour check for all work orders,
  * Introduction of panel level phase and cascade it to WO level phase with interdependency of stages  to follow established process 
 ***
-### Description :
+### Description
 FasTrack is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
 Before this project, data was being managed by all different stakeholders using MS Excel and there was great dependency on individual person to get any information for any TOOL / DIE.
 
@@ -48,12 +48,12 @@ Using line chart and bar chart user is able to monitor development in much effec
 4. <b>Work Order Allocation :</b>
       * In this step Planner has to allocate actual work order for every operation defined by   group leader in step 2.<br>
 5. <b>SAP and PLM record capturing :</b>
-      * To get actual completion date of stages as well as actual cost /hour taken per stage PLM and SAP integration done using PERL scripts. Every time when dates, cost and hour's updated in SAP/PLM PERL script will capture it and update actual column in FasTrack.  <br>
+      * To get actual completion date of stages as well as actual cost /hour taken per stage <b>PLM and SAP integration</b> done using PERL scripts. Every time when dates, cost and hour's updated in <b>SAP/PLM PERL script</b> will capture it and update actual column in FasTrack.  <br>
 6. <b>Tracking Dashboard :</b>
 
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/EQAP.PNG?raw=true)
  
-   * To track progress in DIE making various line plot as well as bar plots has created for better visualization and easy understanding. Along with summary dashboard's has been made that shows Live load month-wise/section-wise, which ever user wants to track.
+   * To track progress in DIE making various <b>line plot</b> as well as <b>bar plots</b> has created for better visualization and easy understanding. Along with, summary dashboard's has been made that shows Live load month-wise/section-wise, which ever user wants to track.
 
 
   
