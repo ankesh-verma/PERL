@@ -10,7 +10,7 @@
  * <b>SAP integration</b> for Plan vs Actual Cost and Hour check for all work orders,
  * Introduction of panel level phase and cascade it to WO level phase with interdependency of stages  to follow established process 
 ***
-### Description
+### <u>Description</u>
 It is a system through which all tool and DIE related information is available online and can be accessed from anywhere within client's network.
 Before this project, data was being managed by all different stakeholders using MS Excel and there was great dependency on individual person to get any information for any TOOL / DIE.
 
@@ -26,7 +26,7 @@ Planned Vs Actual records for hours and cost getting tracked.In addition it invo
 Using <b>line chart and bar chart </b>user is able to monitor development in much effective way.
  
 ***
-## Life Cycle
+### <u>Life Cycle</u>
 > Life cycle consists of steps as:
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/LifeCycle.JPG)
 1. Panel Upload
@@ -55,7 +55,7 @@ Using <b>line chart and bar chart </b>user is able to monitor development in muc
  
    * To track progress in DIE making various <b>line plot</b> as well as <b>bar plots</b> has created for better visualization and easy understanding. Along with, summary dashboard's has been made that shows Live load month-wise/section-wise, which ever user wants to track.
    
-## KEY BENEFIT
+### <u>Key Benefit</u>
  * Post Deployment <b>generated revenue of	42,749 USD</b>
  * Completed <b>5400 billable hours</b>
  * Provides <b>Digital Platform to track</b> and monitor Tool Life-Cycle <b>using Graphs, Plots</b>
