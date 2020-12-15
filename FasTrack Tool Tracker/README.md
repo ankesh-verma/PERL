@@ -54,6 +54,14 @@ Using <b>line chart and bar chart </b>user is able to monitor development in muc
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/FasTrack%20Tool%20Tracker/images/EQAP.PNG?raw=true)
  
    * To track progress in DIE making various <b>line plot</b> as well as <b>bar plots</b> has created for better visualization and easy understanding. Along with, summary dashboard's has been made that shows Live load month-wise/section-wise, which ever user wants to track.
+   
+## KEY BENEFIT
+ * Post Deployment <b>generated revenue of	42,749 USD</b>
+ * Completed <b>5400 billable hours</b>
+ * Provides <b>Digital Platform to track</b> and monitor Tool Life-Cycle <b>using Graphs, Plots</b>
+
+ 
+
 
 
   
