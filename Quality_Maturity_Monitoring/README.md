@@ -10,3 +10,9 @@
  * <b>PLM Integration</b> for Providing real time Tracking of Quality checks,
  * Consolidated Dashboard for Quick Overview of Quality Checks
 ***
+### <u>Life Cycle</u>
+
+> This Application is divided in 5 stages which are as below:
+
+
+
