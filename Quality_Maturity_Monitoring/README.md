@@ -46,5 +46,6 @@ Using this module Quality Head assign received / Identified quality issue to a s
  > ### <u>4. Verify Feedback</u>
  
  In this stage the Feedback <b>Supervisor/Owner have to Accept or Reject</b> the given Solution in previous stage. If <b>Rejected Mail triggers to the Solver</b> for rework with suitable Reason of rejection. Else Feebcak is considerd as Closed.<br>
- During Verification Records has been <b>fetched form PLM using PERL SCRIPT </b>so that <b>Actaul tracking</b> will be done and <b>Human intervention is eleminated</b><br>
+> During Verification Records has been <b>fetched form PLM using PERL SCRIPT </b>so that <b>Actaul tracking</b> will be done and <b>Human intervention is eleminated</b><br>
+
  ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/VerifyFB.JPG?raw=true)
