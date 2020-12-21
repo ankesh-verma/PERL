@@ -57,7 +57,7 @@ Using this module Quality Head assign received / Identified quality issue to a s
  ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/TrackWindowFB.JPG?raw=true)
  
 >  ### <u>Key Benefit</u>
- * Post Deployment <b>Time Saving of ~6 hrs observed</b>
+ * Post Deployment <b>Time Saving of ~6 days observed</b>
  * Completed in <b>1728 billable hours</b>
  * As system is <b>integrated with PLM real time data tracking is done</b>.<br>
  
