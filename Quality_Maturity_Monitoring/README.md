@@ -36,4 +36,9 @@ Using this module Quality Head assign received / Identified quality issue to a s
   
   ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/CreateFB.JPG?raw=true)
 
- 
+> ### <u>3. Close Feedback</u> 
+
+ This is the stage where the person who resolved the Created Feedback assigned to its name will have to <b>update and close</b> it in Portal, while closing Feedback Solution <b>Image is mandatory</b>.<br>
+  Once Saved <b>Mail triggers to the Owner</b> for <b>verification and acceptance</b><br>
+  
+ ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/VerifyFB.JPG?raw=true) 
