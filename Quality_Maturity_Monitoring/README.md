@@ -55,3 +55,12 @@ Using this module Quality Head assign received / Identified quality issue to a s
  This Dashboard <b>shows all records</b> which are Raised by the Supervisor and Quality team <b>for Tracking the current status</b>. This Dashboard <b>uses Datatable Plugin</b> for<b> Quick Search and to filter specific record through serach box.</b><br>
  
  ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/TrackWindowFB.JPG?raw=true)
+ 
+>  ### <u>Key Benefit</u>
+ * Post Deployment <b>Time Saving of ~6 hrs observed</b>
+ * Completed in <b>1728 billable hours</b>
+ * As system is <b>integrated with PLM real time data tracking is done</b>.<br>
+ 
+ ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/Saving.JPG?raw=true)
+
+ 
