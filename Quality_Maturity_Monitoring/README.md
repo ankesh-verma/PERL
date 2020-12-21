@@ -31,7 +31,7 @@ Using this module Quality Head assign received / Identified quality issue to a s
 
 > ### <u>2. Create Feedback</u>
 
-  Post Supervisor allocation, as an Owner, he <b>add the Quality Issue </b>recived through this module and here<b> one work order is having Multiple Issues will be added with different serial number (auto generated)</b>
+  Post Supervisor allocation, as an Owner, he <b>add the Quality Issue </b>recived through this module and here<b> for one work order Multiple Issues will be added with different serial number (auto generated).</b><br>
   Once Created <b>Mail goes to the Concerned who works on that Serial No.</b> <br>
   
   ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/CreateFB.JPG?raw=true)
