@@ -24,8 +24,8 @@
 ***
 ## Short Description of Stages
 ### <u>1. User Mapping</u>
-     In this every Quality issue is assigned to Supervisor, Using this module Quality Head assign received / Identified quality issue to a supervisor.
- Belo image represents the Supervispor assignment Dashboard <br>
+ In this every Quality issue is assigned to Supervisor, Using this module Quality Head assign received / Identified quality issue to a supervisor.
+ Below image represents the Supervispor assignment Dashboard <br>
  
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/ownerMapping.JPG?raw=true)
  
