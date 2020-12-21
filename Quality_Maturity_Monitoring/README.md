@@ -23,13 +23,13 @@
 > 5. Status Tracker
 ***
 ## Short Description of Stages
-### > <u>1. User Mapping</u>
+> ### <u>1. User Mapping</u>
 Using this module Quality Head assign received / Identified quality issue to a supervisor.
  Below image represents the Supervispor assignment Dashboard <br>
  
 ![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/ownerMapping.JPG?raw=true)
 
-### > <u>2. Create Feedback</u>
+> ### <u>2. Create Feedback</u>
 
   Post Supervisor allocation, as an Owner, he <b>add the Quality Issue </b>recived through this module and here<b> one work order is having Multiple Issues will be added with different serial number (auto generated)</b>
   Once Created <b>Mail goes to the Concerned who works on that Serial No.</b> <br>
