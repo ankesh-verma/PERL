@@ -14,5 +14,10 @@
 
 > This Application is divided in 5 stages which are as below:
 
+![enter image description here](https://github.com/ankesh-verma/PERL/blob/main/Quality_Maturity_Monitoring/images/Life_Cycle.JPG?raw=true)
 
-
+> 1. User Mapping
+> 2. Create Feedback
+> 3. Close Feedback
+> 4. Verify Feedback
+> 5. Status Tracker
